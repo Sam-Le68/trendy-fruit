@@ -20,7 +20,7 @@ body {
   background-color: #e97065;
 }
 
-.watermelon h1 {
+.watermelon h2 {
   font-family: "Rammetto One", cursive;
 }
 
@@ -28,7 +28,7 @@ body {
   background-color: #fbd25e;
 }
 
-.starfruit h1 {
+.starfruit h2 {
   font-family: "Gravitas One", cursive;
 }
 
@@ -36,6 +36,6 @@ body {
   background-color: #e86033;
 }
 
-.persimmon h1 {
+.persimmon h2 {
   font-family: Comfortaa, cursive;
 }
